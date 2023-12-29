@@ -8,6 +8,5 @@ const Brand = () => {
     </div>
   )
 }
-import './ brand.css'
 
 export default Brand

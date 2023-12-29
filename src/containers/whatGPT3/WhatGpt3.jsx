@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Blog = () => {
+const WhatGpt3 = () => {
   return (
     <div>
-      Blog
+      WhatGpt3
     </div>
   )
 }
 
-export default Blog
+export default WhatGpt3
